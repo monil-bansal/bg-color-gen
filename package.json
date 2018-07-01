@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/monil-bansal/bg-color-gen#readme",
   "dependencies": {
-    "live-server": "^1.2.0"
+    "lodash": "^4.17.10"
   }
 }
