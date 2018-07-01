@@ -1,0 +1,22 @@
+{
+  "name": "bg-color-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monil-bansal/bg-color-gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monil-bansal/bg-color-gen/issues"
+  },
+  "homepage": "https://github.com/monil-bansal/bg-color-gen#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
