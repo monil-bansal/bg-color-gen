@@ -1,3 +1,7 @@
+var _ = require('lodash');
+// console.log("_");
+var array=[1,2,3,4,5,6];
+console.log('answe:' , _.without(array,3));
 var body = document.getElementById('generator');
 var color1 = document.getElementById("color1");
 var color2 = document.getElementById("color2");
